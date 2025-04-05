@@ -1,0 +1,39 @@
+{
+    "name": "Gym 3",
+    "short_name": "Gym 3",
+    "description": "Gym 3 : sito per la palestra",
+    "icons": [
+        {
+            "src": "img/gym-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "img/gym-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "img/screenshot-1.jpg",
+            "sizes": "1000x1600",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "img/screenshot-2.jpg",
+            "sizes": "1000x1600",
+            "type": "image/jpeg"
+        }
+    ],
+    "background_color": "#af0a1a",
+    "theme_color": "#4e73df",
+    "display": "fullscreen",
+    "orientation": "any",
+    "start_url": ".",
+    "url": "index.php",
+    "scope": ".",
+    "lang": "fa-IR",
+    "dir": "rtl"
+}
